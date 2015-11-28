@@ -1,0 +1,8 @@
+c:\users\lucas\documents\visual studio 2013\Projects\RGB565\RGB565\bin\Release\RGB565.exe.config
+c:\users\lucas\documents\visual studio 2013\Projects\RGB565\RGB565\bin\Release\RGB565.exe
+c:\users\lucas\documents\visual studio 2013\Projects\RGB565\RGB565\bin\Release\RGB565.pdb
+c:\users\lucas\documents\visual studio 2013\Projects\RGB565\RGB565\obj\Release\RGB565.Form1.resources
+c:\users\lucas\documents\visual studio 2013\Projects\RGB565\RGB565\obj\Release\RGB565.Properties.Resources.resources
+c:\users\lucas\documents\visual studio 2013\Projects\RGB565\RGB565\obj\Release\RGB565.csproj.GenerateResource.Cache
+c:\users\lucas\documents\visual studio 2013\Projects\RGB565\RGB565\obj\Release\RGB565.exe
+c:\users\lucas\documents\visual studio 2013\Projects\RGB565\RGB565\obj\Release\RGB565.pdb
